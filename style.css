@@ -1,0 +1,57 @@
+
+body {
+    
+    background: black;     
+    margin: auto;
+    
+     
+}
+
+.post {
+    width: 425px;
+    height: 600px;
+    background: white;
+    margin: auto;
+     
+
+}
+
+.container {
+    width: 400px;
+    
+    
+}
+
+.text {
+    width: 400px;
+}
+.header {
+    display: flex;
+    
+
+}
+
+p{
+    margin: 1%;
+}
+
+
+p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 15px;
+}
+
+.wrapper {
+    margin: auto;
+     
+}
+.iconos{
+    display: flex;
+}
+
+.container2 {
+    width: 400px;
+}
+
+
+
